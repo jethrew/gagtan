@@ -1,1 +1,66 @@
 
+
+[
+  {
+    "id": 12,
+    "name": "CSI",
+    "nagan": "CSI",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/gagtan/master/pics/2722904930_02b97cde28_b.jpg",
+    "price": 300,
+    "priceCurrency": "PHP",
+    "lat": 16.629852,
+    "lng": 120.322644
+  },
+  {
+    "id": 13,
+    "name": "THUNDERBIRD",
+    "nagan": "THUNDERBIRD",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/gagtan/master/pics/ThunderbirdsPhilippines.jpg",
+    "price": 200,
+    "priceCurrency": "PHP",
+    "lat": 16.609118,
+    "lng": 120.286326
+  },
+  {
+    "id": 14,
+    "name": "Pindangan Ruins",
+    "nagan": "Pindangan Ruins",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/pindangan-ruins.jpg",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.588184,
+    "lng": 120.314558
+  },
+  {
+    "id": 15,
+    "name": "ACAPULCO",
+    "nagan": "ACAPULCO",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/gagtan/master/pics/download%20(2).jpg",
+    "price": 500,
+    "priceCurrency": "PHP",
+    "lat":  16.598707,
+    "lng":  120.300870
+  },
+  {
+    "id": 16,
+    "name": "MACHOTEMPLE",
+    "nagan": "MACHOTEMPLE",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/gagtan/master/pics/macho%20temple.jpg",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.621186,
+    "lng": 120.317474
+  },
+  
+   {
+    "id": 17,
+    "name": "Gagtan",
+     "nagan": "Gagtan balay",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/gagtan/master/pics/Untitled.png",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.525119,
+    "lng": 120.329692
+  }
+  ]
+
